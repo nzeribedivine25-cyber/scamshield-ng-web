@@ -185,7 +185,7 @@ export default function HomePage() {
           </div>
 
           <h1 className="font-display text-5xl md:text-7xl font-extrabold leading-tight mb-6">
-            Stop scams
+            Stop scam now,
             <span className="text-gradient block">before it starts.</span>
           </h1>
 
