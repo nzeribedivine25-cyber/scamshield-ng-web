@@ -185,8 +185,8 @@ export default function HomePage() {
           </div>
 
           <h1 className="font-display text-5xl md:text-7xl font-extrabold leading-tight mb-6">
-            Stop scam now,
-            <span className="text-gradient block">before it starts.</span>
+            Block every scam.
+            <span className="text-gradient block">before its late.</span>
           </h1>
 
           <p className="text-lg md:text-xl max-w-2xl mx-auto mb-10 leading-relaxed" style={{ color: 'var(--muted)' }}>
